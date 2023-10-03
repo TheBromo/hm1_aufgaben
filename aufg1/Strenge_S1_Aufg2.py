@@ -21,7 +21,7 @@ def strenge_s1_aufg2(a, xmin, xmax):
     for i in range(n + 1):
         pint += a[i] * i * x ** (i + 1) / (i + 1)
 
-        # n grad polynom
+    # n grad polynom
     # np.zeros(1000)
 
     # x = [x0=xmin,x1,...,xm=xmax
